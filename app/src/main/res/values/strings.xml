@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block Blast Helper</string>
+    <string name="notification_channel_name">Screen Capture</string>
+    <string name="notification_title">Block Blast Helper กำลังทำงาน</string>
+    <string name="notification_text">กำลังวิเคราะห์หน้าจอเกม…</string>
+    <string name="start_capture">เริ่มจับภาพหน้าจอ</string>
+    <string name="stop_capture">หยุดจับภาพ</string>
+    <string name="open_overlay_permission">เปิดสิทธิ์ Floating Window</string>
+    <string name="permission_needed">ต้องอนุญาต Screen Capture และ Floating Window</string>
+</resources>
